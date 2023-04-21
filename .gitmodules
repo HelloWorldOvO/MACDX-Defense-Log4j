@@ -1,0 +1,12 @@
+[submodule "submodule/MACDX-Log4j-detection-script"]
+	path = submodule/MACDX-Log4j-detection-script
+	url = https://github.com/HelloWorldOvO/MACDX-Log4j-detection-script.git
+[submodule "submodule/MACDX-Log4j-vulnerability-web"]
+	path = submodule/MACDX-Log4j-vulnerability-web
+	url = https://github.com/HelloWorldOvO/MACDX-Log4j-vulnerability-web.git
+[submodule "submodule/MACDX-Exploit"]
+	path = submodule/MACDX-Exploit
+	url = https://github.com/HelloWorldOvO/MACDX-Exploit.git
+[submodule "submodule/MACDX-marshalsec"]
+	path = submodule/MACDX-marshalsec
+	url = https://github.com/HelloWorldOvO/MACDX-marshalsec.git
